@@ -1,0 +1,3 @@
+﻿  main.c
+e:\p14\source\main.c(6): error C2081: 'pupils': 在型式參數清單中的名稱不合法
+e:\p14\source\main.c(7): error C2081: 'pupils': 在型式參數清單中的名稱不合法
